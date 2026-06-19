@@ -1,0 +1,1 @@
+This project analyzes Amazon sales data containing 128,976 transactions. The analysis focuses on sales trends, product performance, fulfillment methods, geographical distribution, and order status. Key findings reveal that T-shirts generated the highest revenue, Amazon Fulfillment contributed 69% of total revenue, and Maharashtra was the top-performing state.
